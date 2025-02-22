@@ -1,2 +1,1 @@
-  const kSupabaseKey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh3YnRiZ2hrY2t2cHhpenBqenNvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MDE5OTA4NiwiZXhwIjoyMDU1Nzc1MDg2fQ.f6eYP14fe1k5b8R4-t0tN7yRL2_78CNACpsqOD4y8GY';
-  const kSupabaseUrl='https://hwbtbghkckvpxizpjzso.supabase.co';
+
